@@ -11,7 +11,7 @@ The process {$Y_t$} given by
 
 $Y_t + \phi_1Y_{t-1}+···+\phi_pY_{t-p} = \epsilon_t$,
 
-where $\epsilon_t$ is white noie, is called an *autoregressive process* of order *p* (or an $AR(p)$ process).
+where $\epsilon_t$ is white noise, is called an *autoregressive process* of order *p* (or an $AR(p)$ process).
 
 Here, the chock affects the system forever, but fades gradually. There are infinite $\phi$ weights where each $\phi_t$ is smaller than $\phi_{t-1}$. The value at time $t$ is therefore only dependent on the previous value at time $t-1$.
 
