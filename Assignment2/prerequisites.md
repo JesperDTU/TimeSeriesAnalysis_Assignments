@@ -8,7 +8,7 @@ The process {$Y_t$} given by
 
 $Y_t + \phi_1Y_{t-1}+···+\phi_pY_{t-p} = \epsilon_t$,
 
-where $\epsilon_t$ is white noie, is called an *autoregressive process* of order *p* (or an $AR(p)$ process).
+where $\epsilon_t$ is white noise, is called an *autoregressive process* of order *p* (or an $AR(p)$ process).
 
 ## ARMA process: 
 Autoregressive Moving Average. Page 125 in the book. Definition 5.19. 
