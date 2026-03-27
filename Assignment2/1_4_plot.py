@@ -16,7 +16,7 @@ for k in range(2, nlag + 1):
 
 # Plot
 plt.stem(range(nlag + 1), rho, basefmt="k")
-plt.xlabel("Lag k")
+plt.xlabel("Lag k") 
 plt.ylabel("Autocorrelation")
 plt.title("Autocorrelation function of AR(2) process")
 #plt.axhline(0, color="black", linewidth=0.8)
