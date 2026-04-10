@@ -19,7 +19,7 @@ An example of AR(1):
 
 $ \gamma_t = 0.7 \gamma_{t-1} + \epsilon_t $ 
 
-Example: 
+Example: Predicting the weather. A day with rain affects the predictions forever but less and less the further away you get.
 
 ## ARMA process: 
 Autoregressive Moving Average. Page 125 in the book. Definition 5.19. 
