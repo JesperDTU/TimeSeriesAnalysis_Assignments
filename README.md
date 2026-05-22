@@ -38,7 +38,3 @@ State-space models and Kalman filtering with robustness analysis.
 - Maximum likelihood estimation
 - Parameter identifiability
 - Robustness to model misspecification (heavy-tailed noise)
-
-## Dependencies
-
-See individual assignment `prerequisites.md` files for specific requirements.
